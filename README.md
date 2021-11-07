@@ -29,5 +29,4 @@ Contact:
 <p>
  <a href="https://mail.google.com/mail/u/0/#inbox"> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png", width=5%/></a> 
  <a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png", width=5%/></a> 
- <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKFAmjXBvj8bnT_CX_BOR8QkpaZp1TJg02jkA3McWmCfWKD1pyG9X_fpeJqzwiB5PWKc&usqp=CAU", width=5%/></a> 
 </p>
