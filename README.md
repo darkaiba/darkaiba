@@ -17,17 +17,17 @@ Works mainly on the following topics:
 Language and Tools:
 =================
 <p>
-      <a href=""> <img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465"/></a>
-      <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyo9wOljTGIpIhgGP9VZ_drTe7QNSy6OCi9HZAEmui9kC-nPDqYTrNyV9HbfLCU6tOnDU&usqp=CAU", width=6%/></a>
-      <a href=""><img src="https://camo.githubusercontent.com/b7e290d2aeff9829bba45e897265ceebd34b25f6f7efba4b08e1b23cfe0815e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"/></a>
-      <a href=""><img src="https://lh3.googleusercontent.com/proxy/PwjXzWYLrvMzOxzRsNC2Ae8Bt31waPkeqppqmCkBjOe_YyQ9yrZVX_en8DdHqnFXXq2TvH12DMlYYVWKvavbrW24lZk48gXNVbx0GqvHaj_ASlDetqXDiV2-=w1200-h630-p-k-no-nu", width=4%/></a>
-      <a href=""><img src="https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"/></a>
-      <a href=""><img src="https://camo.githubusercontent.com/c56cbd26855c244a29d147a32aa62cf2359e5ad557ef0aad107259ff82d0d10e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030393544352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"/></a>
-      <a href=""><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5V75uBm29VLyzClUIMMzpMUModypFJKyTVgjvjRBicheRjVBP8mGjZYa1RAJgU_e-yQ&usqp=CAU", width=6%/></a>
-      <a href=""><img src="https://www.faceofit.com/wp-content/uploads/2016/02/SQL-Server-Icon.jpg", width=7%/></a>
-      <a href=""><img src="https://amsilabs.com/wp-content/uploads/2021/01/MongoDB-1.jpg", width=8%/></a>
-      <a href=""><img src="https://logospng.org/wp-content/uploads/android.jpg", width=5%/></a>
-      <a href=""><img src="https://www.nicepng.com/png/detail/296-2966140_unity-3d-is-a-powerful-3d-game-engine.png", width=6%/></a>
+      <a href="https://www.python.org"> Python </a>
+      <a href="https://www.java.com/pt-BR/"> Java </a>
+      <a href="https://www.php.net"> Php</a>
+      <a href="https://visualstudio.microsoft.com/pt-br/vs/features/cplusplus/"> C/C++</a>
+      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"> C#</a>
+      <a href="https://www.postgresql.org"> PostgreSql</a>
+      <a href="https://www.mysql.com"> MySql</a>
+      <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> Sql Server</a>
+      <a href="https://www.mongodb.com"> MongoDB</a>
+      <a href="https://www.android.com/intl/pt-BR_br/"> Android</a>
+      <a href="https://unity.com/pt"> Unity</a>
 </p>
 
 Contact:
