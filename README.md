@@ -33,7 +33,7 @@ Language and Tools:
 Others Contacts:
 =================
 <ul>
-      <li><a href=""> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png", width=2%/> ph.lima006@gmail.com</a> </li>
+      <li> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png", width=2%/> ph.lima006@gmail.com</li>
 </ul>
 <p>
  <a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184/"><img src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png", width=5%/></a>
