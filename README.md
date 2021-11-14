@@ -30,7 +30,7 @@ Language and Tools:
       <li href="https://unity.com/pt"> Unity</li>
 </ul>
 
-Contact:
+Others Contacts:
 =================
 <ul>
       <li><a href=""> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png", width=2%/> ph.lima006@gmail.com</a> </li>
