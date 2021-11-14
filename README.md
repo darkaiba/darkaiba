@@ -16,23 +16,26 @@ Works mainly on the following topics:
 
 Language and Tools:
 =================
-<p>
-      <a href="https://www.python.org"> Python </a>
-      <a href="https://www.java.com/pt-BR/"> Java </a>
-      <a href="https://www.php.net"> Php</a>
-      <a href="https://visualstudio.microsoft.com/pt-br/vs/features/cplusplus/"> C/C++</a>
-      <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"> C#</a>
-      <a href="https://www.postgresql.org"> PostgreSql</a>
-      <a href="https://www.mysql.com"> MySql</a>
-      <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> Sql Server</a>
-      <a href="https://www.mongodb.com"> MongoDB</a>
-      <a href="https://www.android.com/intl/pt-BR_br/"> Android</a>
-      <a href="https://unity.com/pt"> Unity</a>
-</p>
+<ul>
+      <li href="https://www.python.org"> Python </li>
+      <li href="https://www.java.com/pt-BR/"> Java </li>
+      <li href="https://www.php.net"> Php</li>
+      <li href="https://visualstudio.microsoft.com/pt-br/vs/features/cplusplus/"> C/C++</li>
+      <li href="https://docs.microsoft.com/pt-br/dotnet/csharp/"> C#</li>
+      <li href="https://www.postgresql.org"> PostgreSql</li>
+      <li href="https://www.mysql.com"> MySql</li>
+      <li href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads"> Sql Server</li>
+      <li href="https://www.mongodb.com"> MongoDB</li>
+      <li href="https://www.android.com/intl/pt-BR_br/"> Android</li>
+      <li href="https://unity.com/pt"> Unity</li>
+</ul>
 
 Contact:
 =================
+<ul>
+      <li><a href=""> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png", width=2%/> ph.lima006@gmail.com</a> </li>
+</ul>
 <p>
- <a href=""> <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png", width=5%/></a> 
- <a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184/"><img src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png", width=5%/></a> 
+ <a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184/"><img src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png", width=5%/></a>
+ <a href=""><img src="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone-3.png", width=5%/></a>
 </p>
