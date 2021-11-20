@@ -43,7 +43,7 @@ Quick stats:
 Others Contacts:
 =================
 <div dir="auto"><a href="https://github.com/darkaiba"><br></a>
-      <a href="ph.lima006@gmail.com">
+      <a href="mailto:ph.lima006@gmail.com">
             <img alt="Paulo-Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
       </a>
       <a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184" rel="nofollow">
