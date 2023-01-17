@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Welcome to my GitHub!</h1>
 
-<p align="center">My name is Paulo Henrique. A calm guy, with ease of interpersonal relationships and an always optimistic view of life. In pursuit of personal and professional goals, he believes that good humor, creativity and commitment are the solution for most challenges. Master's Degree in Applied Computing at the University of São Paulo (FFCLRP - USP). Graduated in Information Systems from the Federal University of Mato Grosso do Sul (UFMS).</p>
+<p align="center">My name is Paulo. A calm guy, with ease of interpersonal relationships and an always optimistic view of life. In pursuit of personal and professional goals, he believes that good humor, creativity and commitment are the solution for most challenges. Master's Degree in Applied Computing at the University of São Paulo (FFCLRP - USP). Graduated in Information Systems from the Federal University of Mato Grosso do Sul (UFMS).</p>
 
 Works mainly on the following topics:
 =================
