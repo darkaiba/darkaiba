@@ -40,7 +40,7 @@ Quick stats:
 ================
 <div dir="auto">
       <a href="https://github.com/darkaiba">
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkaiba&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp" style="max-width: 100%;">
+            <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkaiba&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp" style="max-width: 100%;">-->
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkaiba&amp;theme=dracula&amp" style="max-width: 100%;">
       </a>
 </div>
