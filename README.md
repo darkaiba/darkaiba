@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Welcome to my GitHub!</h1>
 
-<p align="center">My name is Paulo. A calm guy, with ease of interpersonal relationships and an always optimistic view of life. In pursuit of personal and professional goals, he believes that good humor, creativity and commitment are the solution for most challenges. Master's Degree in Applied Computing at the University of São Paulo (FFCLRP - USP). Graduated in Information Systems from the Federal University of Mato Grosso do Sul (UFMS).</p>
+<p align="justify">My name is Paulo. A calm guy, with ease of interpersonal relationships and an always optimistic view of life. In pursuit of personal and professional goals, he believes that good humor, creativity and commitment are the solution for most challenges. Master's Degree in Applied Computing at the University of São Paulo (FFCLRP - USP). Graduated in Information Systems from the Federal University of Mato Grosso do Sul (UFMS).</p>
 
 Works mainly on the following topics:
 =================
@@ -51,9 +51,9 @@ Others Contacts:
       <a href="mailto:ph.lima006@gmail.com">
             <img alt="Paulo-Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
       </a>
-      <!--<a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184" rel="nofollow">
+      <a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184" rel="nofollow">
             <img alt="Paulo-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-      </a>-->
+      </a>
       <a href="https://wa.me/5516997326146" rel="nofollow">
             <img alt="Paulo-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
       </a>
