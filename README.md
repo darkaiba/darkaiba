@@ -1,6 +1,12 @@
 <h1 align="center">Hello, Welcome to my GitHub!</h1>
 
-<p align="justify">My name is Paulo. A calm guy, with ease of interpersonal relationships and an always optimistic view of life. In pursuit of personal and professional goals, he believes that good humor, creativity and commitment are the solution for most challenges. Master's Degree in Applied Computing at the University of São Paulo (FFCLRP - USP). Graduated in Information Systems from the Federal University of Mato Grosso do Sul (UFMS).</p>
+<p align="justify">
+      Hello, I'm a calm guy, with ease of interpersonal relationships and an always optimistic view of life. In pursuit of personal and professional goals, he believes that good humor, creativity and commitment are the solution for most challenges. Master's Degree in Applied Computing at the University of São Paulo (FFCLRP - USP). Graduated in Information Systems from the Federal University of Mato Grosso do Sul (UFMS).
+</p>
+
+<p align="justify">
+      I have been working in Artificial Intelligence and Machine Learning, with research and credit analysis. I have developed AI projects for the medical and agribusiness sectors. Currently, I have been using AI for Big Data processing and for development in the credit sector.
+</p>
 
 Works mainly on the following topics:
 =================
@@ -43,6 +49,13 @@ Quick stats:
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=darkaiba&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp" style="max-width: 100%;">
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkaiba&amp;theme=dracula&amp" style="max-width: 100%;">
       </a>
+</div>
+
+Main Projects:
+================
+<div dir="auto">
+      <p><a href="https://github.com/darkaiba/ParallelCompetitiveLearning">Master's Project: Parallel Particle Competition Algorithm</a></p>
+      <p><a href="https://github.com/darkaiba/HierarquicalMultiView"></a>Research Project: Multivision of Events</p>
 </div>
 
 Others Contacts:
