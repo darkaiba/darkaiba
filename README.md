@@ -67,7 +67,7 @@ Others Contacts:
       <a href="https://www.linkedin.com/in/paulo-henrique-lima-69a388184" rel="nofollow">
             <img alt="Paulo-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
       </a>
-      <a href="https://wa.me/5516997326146" rel="nofollow">
+      <!--<a href="https://wa.me/5516997326146" rel="nofollow">
             <img alt="Paulo-Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" style="max-width: 100%;">
-      </a>
+      </a>-->
 </div>
