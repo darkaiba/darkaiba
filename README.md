@@ -5,7 +5,7 @@
 </p>
 
 <p align="justify">
-      I have been working in Artificial Intelligence and Machine Learning, with research and credit analysis. I have developed AI projects for the medical and agribusiness sectors. Currently, I have been using AI for Big Data processing and for development in the credit sector.
+      I have been working in Artificial Intelligence and Machine Learning, with research and credit analysis. I have developed AI projects for the medical and websensors sectors. Currently, I have been using AI for Big Data processing and for development in the credit sector.
 </p>
 
 Works mainly on the following topics:
