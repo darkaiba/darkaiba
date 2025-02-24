@@ -56,6 +56,7 @@ Main Projects:
 <div dir="auto">
       <p><a href="https://github.com/darkaiba/ParallelCompetitiveLearning">Master's Project: Parallel Particle Competition Algorithm</a></p>
       <p><a href="https://github.com/darkaiba/HierarquicalMultiView">Research Project: Multivision of Events</a></p>
+      <p><a href="https://github.com/darkaiba/TicTacPython">Minmax AI for TicTac</a></p>
 </div>
 
 Others Contacts:
